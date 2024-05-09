@@ -1,11 +1,2 @@
-Added new line.
-asjkaskjh jkah kjhsajkas khkasjklhaskjhs
-askjhashksa
-asdas
-asdasasdd
-asds
-
-asdasdasdasdsadasdsa
-
-
-some text
+1 - first item
+2 - second item
